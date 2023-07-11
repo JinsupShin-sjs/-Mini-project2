@@ -18,8 +18,8 @@
 
 
 
-   부도사유 및 어음 코드 
-code_nm / code_val / code_val_nm 
+   부도사유 및 어음 코드 /n
+code_nm / code_val / code_val_nm /n 
 부도사유구분코드	0	 해당없음
 부도사유구분코드	1	 예금부족
 부도사유구분코드	2	 무거래
