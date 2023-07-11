@@ -1,4 +1,4 @@
-## Project2-Solo (2nd Mini Project) 
+## Project-Solo (2nd Mini Project) 
 ### Bankruptcy
 
 ## <프로젝트 계획>
