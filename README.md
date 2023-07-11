@@ -14,4 +14,27 @@
    - 금융결제원 개방데이터셋 : ALL.부도어음집계.csv
    - 한국은행 경제통계시스템 : 어음부도율.csv, 경제활동인구.csv, 시장금리(월,분기,년).csv, kospi_국가별환율.csv, 예금은행 대출금리(잔액 기준).csv, 물가_부동산지수.csv
 4. 분석방법
-   EDA, Coefficient Correlation, Regression, Sampling(under/over), Scaling(MinMax/Robust), Classification (Logit,Tree,  Random Forest, SVM, KNN, ANN, DNN, Etc)   
+   EDA, Coefficient Correlation, Regression, Sampling(under/over), Scaling(MinMax/Robust), Classification (Logit,Tree,  Random Forest, SVM, KNN, ANN, DNN, Etc)
+
+
+
+### 부도사유 및 어음 코드 
+   code_nm / code_val / code_val_nm
+======================================================
+부도사유구분코드	0	 해당없음
+부도사유구분코드	1	 예금부족
+부도사유구분코드	2	 무거래
+부도사유구분코드	3	 형식불비
+부도사유구분코드	4	 안내서미착
+부도사유구분코드	5	 "사고신고서접수(도난,분실,피사취)"
+부도사유구분코드	6	 "위조,변조"
+------------------------------------------------------
+부도어음종류코드	0	 해당사항없음
+부도어음종류코드	1	 약속어음
+부도어음종류코드	2	 당좌수표
+부도어음종류코드	3	 가계수표
+부도어음종류코드	4	 자기앞수표
+부도어음종류코드	5	 환어음
+부도어음종류코드	6	 기타
+부도어음종류코드	7	 전자어음
+========================================================
